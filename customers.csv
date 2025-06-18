@@ -1,0 +1,21 @@
+CustomerID,Name,Segment,Country
+201,Customer_201,Consumer,USA
+202,Customer_202,Consumer,Germany
+203,Customer_203,Corporate,Germany
+204,Customer_204,Consumer,USA
+205,Customer_205,Consumer,UK
+206,Customer_206,Home Office,India
+207,Customer_207,Consumer,UK
+208,Customer_208,Home Office,UK
+209,Customer_209,Corporate,India
+210,Customer_210,Corporate,Germany
+211,Customer_211,Consumer,UK
+212,Customer_212,Consumer,UK
+213,Customer_213,Corporate,UK
+214,Customer_214,Home Office,USA
+215,Customer_215,Home Office,Germany
+216,Customer_216,Home Office,UK
+217,Customer_217,Home Office,USA
+218,Customer_218,Consumer,UK
+219,Customer_219,Home Office,Germany
+220,Customer_220,Home Office,Germany
